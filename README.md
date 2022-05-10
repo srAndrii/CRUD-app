@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+![image_2022-05-10_22-50-51](https://user-images.githubusercontent.com/90868495/167710697-e4983a9d-3c5a-4ac8-8543-2d2a30143117.png)
+https://crud-app007.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Краткое описание:
+Программа построена на классовых компонентах.\
+Включает такие базовые возможности, как:\
+-добавление/удаление работника\
+-при клике на имя работника появляется "звездочка", означающая "повышение" работника\
+-при клике на "печенье" можно назначить премию работнику\
+-возможность фильтрации и поиска по списку работников\
 
 ## Available Scripts
 
@@ -39,25 +46,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
